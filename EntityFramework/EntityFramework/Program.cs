@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace EntityFramework
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
