@@ -54,6 +54,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EntityFramworkMamager.cs" />
     <Compile Include="Migrations\202004190215336_InitialCreate.cs" />
     <Compile Include="Migrations\202004190215336_InitialCreate.designer.cs">
       <DependentUpon>202004190215336_InitialCreate.cs</DependentUpon>
