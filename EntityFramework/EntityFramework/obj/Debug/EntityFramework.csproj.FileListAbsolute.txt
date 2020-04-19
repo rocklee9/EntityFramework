@@ -1,0 +1,11 @@
+F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll
+F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.xml
+F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csprojAssemblyReference.cache
+F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CopyComplete
+F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
+F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb

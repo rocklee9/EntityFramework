@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EntityFramework.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,10 @@ namespace EntityFramework
     {
         static void Main(string[] args)
         {
+            DataContext dataContext = new DataContext();
+            dataContext.Database.CreateIfNotExists();
+
+            Console.ReadKey();
         }
     }
 }
