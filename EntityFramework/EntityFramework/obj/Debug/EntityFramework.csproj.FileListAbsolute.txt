@@ -9,3 +9,6 @@ F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\Entity
 F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CopyComplete
 F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
 F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb
+F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\obj\Debug\EntityFramework.Migrations.InitialCreate.resources
+F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.GenerateResource.cache
+F:\ThayPhuong\Entity Framework\SourceCode\EntityFramework\EntityFramework\EntityFramework\obj\Debug\EntityFramework.Migrations.Createdatabase.resources
